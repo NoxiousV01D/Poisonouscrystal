@@ -1,21 +1,10 @@
-    
-    __Hello!
-Hello!.
+    <div align="center">
+
+# Spacer/Niccky/Elijah!
+Hello, the layouts for this Github is still a work in progress since I feel lazy to make a Subspac(P!)
+Layouts for README. So, if you follow good githubs or good ponies, Follow my main. My main acc is in bio!
+
+__Spacer out.__
 
 </div>
-<div align="center">
-
-<!--
-**Poisonouscrystal/Poisonouscrystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
