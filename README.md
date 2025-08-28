@@ -1,4 +1,4 @@
-    <div align="center">
+    
 
 # Spacer/Niccky/Elijah!
 Hello, the layouts for this Github is still a work in progress since I feel lazy to make a Subspac(P!)
